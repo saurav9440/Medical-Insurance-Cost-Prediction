@@ -38,14 +38,14 @@ R-squared (R
 Root Mean Squared Error (RMSE): $4480.40 (The average difference between the predicted and actual charges is approximately $4480.)
 
 ### Technologies Used
-## Python
+Python
 
-## Pandas
+Pandas
 
-## NumPy
+NumPy
 
-## Scikit-learn
+Scikit-learn
 
-## Matplotlib
+Matplotlib
 
-## Seaborn
+Seaborn
