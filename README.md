@@ -5,19 +5,19 @@ This project focuses on building a machine learning model to predict individual 
 ### Dataset
 The dataset used is the Medical Cost Personal Dataset, publicly available on Kaggle. It contains 1338 rows and 7 columns, including:
 
-## age: Age of the primary beneficiary.
+# age: Age of the primary beneficiary.
 
-## sex: Gender (male/female).
+# sex: Gender (male/female).
 
-## bmi: Body Mass Index.
+# bmi: Body Mass Index.
 
-## children: Number of children/dependents.
+# children: Number of children/dependents.
 
-## smoker: Smoking status (yes/no).
+# smoker: Smoking status (yes/no).
 
-## region: The beneficiary's residential area in the US.
+# region: The beneficiary's residential area in the US.
 
-## charges: Individual medical costs billed by health insurance (the target variable).
+# charges: Individual medical costs billed by health insurance (the target variable).
 
 ## Key Features & Techniques
 Exploratory Data Analysis (EDA): Visualized data distributions and relationships to understand the impact of features like age, smoking status, and BMI on insurance charges.
